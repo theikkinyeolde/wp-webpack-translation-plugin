@@ -1,6 +1,6 @@
 {
   "name": "wp-webpack-translation-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "wp-webpack-translation-plugin.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/taneliheikkinen/heroku-wp-environment-sync.git"
+    "url": "https://github.com/taneliheikkinen/wp-webpack-translation-plugin.git"
   },
-  "url": "https://github.com/taneliheikkinen/heroku-wp-environment-sync",
+  "url": "https://github.com/taneliheikkinen/wp-webpack-translation-plugin",
   "author": "",
   "license": "ISC",
   "dependencies": {
