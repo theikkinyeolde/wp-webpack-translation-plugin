@@ -1,6 +1,6 @@
 {
   "name": "wp-webpack-translation-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "wp-webpack-translation-plugin.js",
   "scripts": {

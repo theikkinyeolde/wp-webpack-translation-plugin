@@ -18,7 +18,7 @@ module.exports = class WpPotPlugin {
         this.initialized = false;
         this.logPrefix = "[wp-webpack-translation-plugin]"
 
-        if(commandExists("msgmerge")) {
+        if(!commandExists("msgmerge")) {
             throw `${this.logPrefix} 'msgmerge' command doesn't exist. Ensure, that you have gettext installed.`
         }
     }
