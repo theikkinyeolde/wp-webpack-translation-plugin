@@ -1,6 +1,6 @@
 {
   "name": "wp-webpack-translation-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "wp-webpack-translation-plugin.js",
   "scripts": {
@@ -19,8 +19,7 @@
     "command-exists": "^1.2.8",
     "gettext-parser": "^4.0.2",
     "lodash": "^4.17.15",
-    "webpack": "^4.41.0",
+    "webpack": "^3.12.0",
     "wp-pot": "^1.7.3"
   }
 }
- 
