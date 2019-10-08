@@ -175,9 +175,7 @@ module.exports = class WpPotPlugin {
 
             this.initialized = true;
         } else {
-            compiler.hooks.run.tap("WP Pot plugin", (stats) => {
-                this.runTranslationsGenerations();
-            });
+            this.runTranslationsGenerations();
         }
     }
 };
