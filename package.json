@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": ">=12"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/taneliheikkinen/wp-webpack-translation-plugin.git"
@@ -14,12 +17,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chokidar": "^3.2.1",
-    "colors": "^1.4.0",
-    "command-exists": "^1.2.8",
-    "gettext-parser": "^4.0.2",
-    "lodash": "^4.17.15",
-    "webpack": "^3.12.0",
-    "wp-pot": "^1.7.3"
+    "chokidar": "^3.2",
+    "colors": "^1.4",
+    "command-exists": "^1.2",
+    "gettext-parser": "^4.0",
+    "lodash": "^4.17",
+    "webpack": "^5",
+    "wp-pot": "^1.7"
   }
 }
